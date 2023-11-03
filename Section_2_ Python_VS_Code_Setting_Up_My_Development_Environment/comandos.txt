@@ -1,0 +1,1 @@
+ctrl + ; -> comenta ou descomenta as linhas selecionadas
