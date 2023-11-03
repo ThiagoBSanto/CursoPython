@@ -1,0 +1,2 @@
+# Section 3: Getting Started with Python (Basic Programming Logic)
+### This section is designed for beginners, where we'll cover fundamental programming concepts, including control structures, variables, data types, and basic programming logic.

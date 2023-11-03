@@ -1,0 +1,2 @@
+# Section 4: Intermediate Python - Functions, Dictionaries, Modules, Functional Programming, and More
+### Dive deeper into Python with intermediate topics such as functions, dictionaries, modules, and functional programming.

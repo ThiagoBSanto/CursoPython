@@ -1,0 +1,2 @@
+# Section 5: Introduction to Object-Oriented Programming (OOP) in Python - Classes
+### Learn the principles of Object-Oriented Programming in Python, including classes, objects, inheritance, and encapsulation.

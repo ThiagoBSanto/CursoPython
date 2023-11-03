@@ -1,0 +1,2 @@
+# Section 6: Python Modules - os, datetime, sys, json, csv, selenium, pillow, and More
+### Explore a variety of Python modules that can be used for specific tasks, including file manipulation, date and time handling, web automation, and image processing. 
