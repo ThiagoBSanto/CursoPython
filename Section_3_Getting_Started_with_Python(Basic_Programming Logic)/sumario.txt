@@ -1,0 +1,33 @@
+Aula 1: video 16 - 17
+    Interpretador python
+    Comentarios
+    DocString
+
+Aula 2: video 18 - 19
+    funcao print
+    Tipo str (string)
+
+Aula 3: video 20,21
+    Tipagem
+    Tipo int, float, bool
+     
+Aula 4: video 22
+     Convertendo tipos
+
+Aula 5: video 23-25
+     Variaveis
+
+Aula 6: video 26-30
+     Operadores Matematicos
+
+aula 7: video 31-32
+     Formatação de Strings
+
+
+
+     
+
+
+     
+ 
+ 
