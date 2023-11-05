@@ -17,3 +17,11 @@ nome = "João"
 idade = 22
 print(f"Nome: {nome}, Idade: {idade}")
 print()
+#
+# Quantificar as casas decimais
+# usamos :.nf
+# onde o n é a quantidade de casa decimais desejadas
+
+altura = 1.789
+print(f" altura: {altura:.2f}")
+print()
