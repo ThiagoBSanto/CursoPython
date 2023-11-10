@@ -33,7 +33,10 @@ Aula 9:  video 34-39
 Aula 10: video 40-43
      Operadores logicos     
 
+Aula 11: video 44-48
+     Interpolção com Strings
 
-     
- 
+Aula 12: video 49
+     Interpolção com Strings
+
  
