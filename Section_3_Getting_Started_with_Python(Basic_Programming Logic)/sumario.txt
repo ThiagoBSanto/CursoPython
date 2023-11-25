@@ -39,4 +39,17 @@ Aula 11: video 44-48
 Aula 12: video 49
      Interpolção com Strings
 
+Aula 13: video 50-57
+     Boas práticas
+
+Aula 14: video 58
+     Documentação python
+
+Aula 15: video 59-71
+     While
  
+Aula 16: video 71-86
+     For
+
+Aula 17: Sem video
+     While X For

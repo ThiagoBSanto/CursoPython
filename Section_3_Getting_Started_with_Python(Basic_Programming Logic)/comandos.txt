@@ -1,5 +1,9 @@
 Atalhos Gerais:
 
+
+COMENTAR LINHAS: Ctrl + /
+
+
 Abrir ou fechar a paleta de comandos: Ctrl + Shift + P
 Salvar o arquivo atual: Ctrl + S
 Desfazer a última ação: Ctrl + Z
