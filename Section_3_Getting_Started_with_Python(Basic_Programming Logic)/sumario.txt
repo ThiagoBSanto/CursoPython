@@ -48,8 +48,17 @@ Aula 14: video 58
 Aula 15: video 59-71
      While
  
-Aula 16: video 71-86
+Aula 16: video 71-79
      For
 
 Aula 17: Sem video
      While X For
+
+Aula 18: 80 - 86
+     List
+
+aula 19: 87 - 97
+     Empacotamento e tuplas
+
+aula 20: 98- 103
+     Criar Verificador de CPF
