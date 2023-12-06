@@ -1,0 +1,9 @@
+aula 21: 98- 113
+     introdução a funções
+
+aula 22: 114-115
+     Higher Order Functions - Funções de primeira classe
+
+aula 23: 116-117
+     Closure e funções que retornam outras funções
+
